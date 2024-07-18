@@ -1,0 +1,10 @@
+18-Jul-2024 14:08:15.109 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+18-Jul-2024 14:08:15.113 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+18-Jul-2024 14:08:15.922 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+18-Jul-2024 14:08:33.098 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+18-Jul-2024 14:08:33.099 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+18-Jul-2024 14:09:13.915 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+18-Jul-2024 14:09:13.919 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+18-Jul-2024 14:09:14.719 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'appServlet'
+18-Jul-2024 14:19:01.954 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'appServlet'
+18-Jul-2024 14:19:01.955 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
