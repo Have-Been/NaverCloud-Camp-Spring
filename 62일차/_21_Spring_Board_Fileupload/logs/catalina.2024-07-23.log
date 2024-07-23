@@ -1,0 +1,392 @@
+23-Jul-2024 10:12:15.671 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:12:15.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:12:15.679 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 10:12:15.679 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 10:12:15.679 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 10:12:15.680 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=52036:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 10:12:15.683 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 10:12:15.697 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 10:12:15.825 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 10:12:15.836 INFO [main] org.apache.catalina.startup.Catalina.load [304] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 10:12:15.868 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 10:12:15.868 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 10:12:15.877 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 10:12:17.562 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 10:12:17.614 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 10:12:18.613 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 998 ms
+23-Jul-2024 10:12:18.671 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,794] 밀리초 내에 완료되었습니다.
+23-Jul-2024 10:12:18.674 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 10:12:18.719 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2883] 밀리초 내에 시작되었습니다.
+23-Jul-2024 10:12:21.256 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+23-Jul-2024 10:12:21.820 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 564 ms
+23-Jul-2024 10:12:21.873 WARNING [http-nio-8090-exec-3] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for GET /favicon.ico
+23-Jul-2024 10:13:15.268 WARNING [http-nio-8090-exec-9] org.springframework.core.LocalVariableTableParameterNameDiscoverer.inspectClass Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.bit.springboard.controller.BoardController
+23-Jul-2024 10:51:33.145 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 10:51:33.393 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 10:51:33.405 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [com.mysql.cj.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+23-Jul-2024 10:51:33.405 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads 웹 애플리케이션 [ROOT]이(가) [mysql-cj-abandoned-connection-cleanup](이)라는 이름의 쓰레드를 시작시킨 것으로 보이지만, 해당 쓰레드를 중지시키지 못했습니다. 이는 메모리 누수를 유발할 가능성이 큽니다. 해당 쓰레드의 스택 트레이스:
+ java.base@17.0.10/java.lang.Object.wait(Native Method)
+ java.base@17.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.10/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 10:51:33.412 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 10:51:33.427 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
+23-Jul-2024 10:51:36.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 10:51:36.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 10:51:36.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 10:51:36.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 10:51:36.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 10:51:36.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 10:51:36.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 10:51:36.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 10:51:36.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 10:51:36.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:51:36.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:51:36.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 10:51:36.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 10:51:36.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 10:51:36.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 10:51:36.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=52269:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 10:51:36.558 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 10:51:36.562 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 10:51:36.681 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 10:51:36.690 INFO [main] org.apache.catalina.startup.Catalina.load [275] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 10:51:36.718 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 10:51:36.718 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 10:51:36.725 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 10:51:38.262 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 10:51:38.310 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 10:51:39.254 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 943 ms
+23-Jul-2024 10:51:39.311 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,583] 밀리초 내에 완료되었습니다.
+23-Jul-2024 10:51:39.314 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 10:51:39.361 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2669] 밀리초 내에 시작되었습니다.
+23-Jul-2024 10:51:41.252 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+23-Jul-2024 10:51:41.802 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 550 ms
+23-Jul-2024 10:52:19.724 WARNING [http-nio-8090-exec-1] org.springframework.core.LocalVariableTableParameterNameDiscoverer.inspectClass Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.bit.springboard.controller.BoardController
+23-Jul-2024 10:52:33.140 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 10:52:33.390 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 10:52:33.400 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [com.mysql.cj.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+23-Jul-2024 10:52:33.401 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads 웹 애플리케이션 [ROOT]이(가) [mysql-cj-abandoned-connection-cleanup](이)라는 이름의 쓰레드를 시작시킨 것으로 보이지만, 해당 쓰레드를 중지시키지 못했습니다. 이는 메모리 누수를 유발할 가능성이 큽니다. 해당 쓰레드의 스택 트레이스:
+ java.base@17.0.10/java.lang.Object.wait(Native Method)
+ java.base@17.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.10/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 10:52:33.403 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 10:52:33.419 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
+23-Jul-2024 10:52:44.593 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:52:44.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:52366,suspend=y,server=n
+23-Jul-2024 10:52:44.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 10:52:44.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:52:44.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:52:44.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 10:52:44.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 10:52:44.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 10:52:44.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Users\bitcamp\AppData\Local\JetBrains\IntelliJIdea2024.1\captureAgent\debugger-agent.jar
+23-Jul-2024 10:52:44.610 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 10:52:44.614 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 10:52:44.730 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 10:52:44.745 INFO [main] org.apache.catalina.startup.Catalina.load [274] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 10:52:44.782 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 10:52:44.783 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 10:52:44.793 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 10:52:47.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:52:47.799 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:52:47.804 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 10:52:47.804 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 10:52:47.804 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 10:52:47.805 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=52369:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 10:52:47.807 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 10:52:47.811 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 10:52:47.934 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 10:52:47.946 INFO [main] org.apache.catalina.startup.Catalina.load [258] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 10:52:47.977 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 10:52:47.977 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 10:52:47.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 10:52:49.539 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 10:52:49.590 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 10:52:50.539 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 948 ms
+23-Jul-2024 10:52:50.596 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,611] 밀리초 내에 완료되었습니다.
+23-Jul-2024 10:52:50.599 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 10:52:50.649 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2702] 밀리초 내에 시작되었습니다.
+23-Jul-2024 10:52:52.972 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+23-Jul-2024 10:52:53.501 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 529 ms
+23-Jul-2024 10:53:23.400 WARNING [http-nio-8090-exec-7] org.springframework.core.LocalVariableTableParameterNameDiscoverer.inspectClass Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.bit.springboard.controller.BoardController
+23-Jul-2024 10:58:10.890 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload 컨텍스트 []을(를) 다시 로드합니다.
+23-Jul-2024 10:58:10.891 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload 이름이 []인 컨텍스트를 다시 로드하는 작업이 시작되었습니다.
+23-Jul-2024 10:58:10.904 WARNING [Catalina-utility-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [com.mysql.cj.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+23-Jul-2024 10:58:10.905 WARNING [Catalina-utility-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads 웹 애플리케이션 [ROOT]이(가) [mysql-cj-abandoned-connection-cleanup](이)라는 이름의 쓰레드를 시작시킨 것으로 보이지만, 해당 쓰레드를 중지시키지 못했습니다. 이는 메모리 누수를 유발할 가능성이 큽니다. 해당 쓰레드의 스택 트레이스:
+ java.base@17.0.10/java.lang.Object.wait(Native Method)
+ java.base@17.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.10/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 10:58:12.280 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 10:58:12.311 INFO [Catalina-utility-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 10:58:12.744 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading 불허되는 접근: 이 웹 애플리케이션 인스턴스는 이미 중지되었습니다. []을(를) 로드할 수 없습니다. 디버그 목적 및 불허되는 접근을 발생시킨 해당 쓰레드를 종료시키기 위한 시도로서, 다음 스택 트레이스가 생성됩니다.
+	java.lang.IllegalStateException: 불허되는 접근: 이 웹 애플리케이션 인스턴스는 이미 중지되었습니다. []을(를) 로드할 수 없습니다. 디버그 목적 및 불허되는 접근을 발생시킨 해당 쓰레드를 종료시키기 위한 시도로서, 다음 스택 트레이스가 생성됩니다.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1352)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:950)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:125)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:92)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 10:58:13.109 INFO [Catalina-utility-2] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 798 ms
+23-Jul-2024 10:58:13.113 INFO [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload 이름이 []인 컨텍스트를 다시 로드하는 것을 완료했습니다.
+23-Jul-2024 11:02:09.351 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 11:02:09.594 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 11:02:09.601 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 11:02:09.603 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
+23-Jul-2024 11:02:25.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 11:02:25.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 11:02:25.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 11:02:25.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 11:02:25.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 11:02:25.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 11:02:25.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 11:02:25.756 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 11:02:25.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=52446:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 11:02:25.759 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 11:02:25.763 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 11:02:25.878 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 11:02:25.887 INFO [main] org.apache.catalina.startup.Catalina.load [249] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 11:02:25.916 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 11:02:25.916 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 11:02:25.923 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 11:02:27.491 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 11:02:27.545 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 11:02:28.494 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 946 ms
+23-Jul-2024 11:02:28.552 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,628] 밀리초 내에 완료되었습니다.
+23-Jul-2024 11:02:28.556 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 11:02:28.600 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2711] 밀리초 내에 시작되었습니다.
+23-Jul-2024 11:02:30.282 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+23-Jul-2024 11:02:30.832 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 550 ms
+23-Jul-2024 11:02:49.014 WARNING [http-nio-8090-exec-9] org.springframework.core.LocalVariableTableParameterNameDiscoverer.inspectClass Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.bit.springboard.controller.BoardController
+23-Jul-2024 11:02:56.207 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 11:02:56.452 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 11:02:56.458 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [com.mysql.cj.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+23-Jul-2024 11:02:56.458 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads 웹 애플리케이션 [ROOT]이(가) [mysql-cj-abandoned-connection-cleanup](이)라는 이름의 쓰레드를 시작시킨 것으로 보이지만, 해당 쓰레드를 중지시키지 못했습니다. 이는 메모리 누수를 유발할 가능성이 큽니다. 해당 쓰레드의 스택 트레이스:
+ java.base@17.0.10/java.lang.Object.wait(Native Method)
+ java.base@17.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.10/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 11:02:56.462 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 11:02:56.465 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
+23-Jul-2024 11:03:12.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 11:03:12.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 11:03:12.739 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 11:03:12.740 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 11:03:12.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 11:03:12.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 11:03:12.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 11:03:12.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 11:03:12.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=52530:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 11:03:12.750 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 11:03:12.754 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 11:03:12.867 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 11:03:12.878 INFO [main] org.apache.catalina.startup.Catalina.load [254] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 11:03:12.907 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 11:03:12.907 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 11:03:12.915 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 11:03:14.433 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 11:03:14.482 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 11:03:15.408 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 925 ms
+23-Jul-2024 11:03:15.461 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,545] 밀리초 내에 완료되었습니다.
+23-Jul-2024 11:03:15.464 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 11:03:15.506 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2627] 밀리초 내에 시작되었습니다.
+23-Jul-2024 11:44:59.972 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 11:45:00.225 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 11:45:00.235 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 11:45:00.237 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
+23-Jul-2024 14:24:41.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 14:24:41.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 14:24:41.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 14:24:41.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 14:24:41.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 14:24:41.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 14:24:41.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 14:24:41.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 14:24:41.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 14:24:41.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 14:24:41.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 14:24:41.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 14:24:41.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 14:24:41.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 14:24:41.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=53332:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 14:24:41.270 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 14:24:41.274 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 14:24:41.389 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 14:24:41.398 INFO [main] org.apache.catalina.startup.Catalina.load [272] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 14:24:41.422 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 14:24:41.423 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 14:24:41.430 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 14:24:42.943 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 14:24:42.997 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 14:24:43.936 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 937 ms
+23-Jul-2024 14:24:43.990 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,559] 밀리초 내에 완료되었습니다.
+23-Jul-2024 14:24:43.993 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 14:24:44.036 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2637] 밀리초 내에 시작되었습니다.
+23-Jul-2024 14:24:45.887 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+23-Jul-2024 14:24:46.439 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 552 ms
+23-Jul-2024 14:25:18.811 WARNING [http-nio-8090-exec-7] org.springframework.core.LocalVariableTableParameterNameDiscoverer.inspectClass Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.bit.springboard.controller.BoardController
+23-Jul-2024 14:38:11.268 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 14:38:11.519 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 14:38:11.532 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [com.mysql.cj.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+23-Jul-2024 14:38:11.532 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads 웹 애플리케이션 [ROOT]이(가) [mysql-cj-abandoned-connection-cleanup](이)라는 이름의 쓰레드를 시작시킨 것으로 보이지만, 해당 쓰레드를 중지시키지 못했습니다. 이는 메모리 누수를 유발할 가능성이 큽니다. 해당 쓰레드의 스택 트레이스:
+ java.base@17.0.10/java.lang.Object.wait(Native Method)
+ java.base@17.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.10/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 14:38:11.536 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 14:38:11.545 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
+23-Jul-2024 15:00:23.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.25
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 14 2024 19:31:59 UTC
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.25.0
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Java\jdk-17
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.10+11-LTS-240
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 15:00:23.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 15:00:23.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Jul-2024 15:00:23.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+23-Jul-2024 15:00:23.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+23-Jul-2024 15:00:23.180 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dfile.encoding=UTF-8
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\devTools\apache-tomcat-10.1.25
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\temp
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\logging.properties
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2024 15:00:23.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\lib\idea_rt.jar=53880:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1\bin
+23-Jul-2024 15:00:23.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.7]을(를) 로드했습니다.
+23-Jul-2024 15:00:23.188 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.13 30 Jan 2024]
+23-Jul-2024 15:00:23.300 INFO [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8090"]을(를) 초기화합니다.
+23-Jul-2024 15:00:23.312 INFO [main] org.apache.catalina.startup.Catalina.load [251] 밀리초 내에 서버가 초기화되었습니다.
+23-Jul-2024 15:00:23.338 INFO [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+23-Jul-2024 15:00:23.338 INFO [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.25]
+23-Jul-2024 15:00:23.345 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]을(를) 배치합니다.
+23-Jul-2024 15:00:24.876 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars 적어도 하나의 JAR가 TLD들을 찾기 위해 스캔되었으나 아무 것도 찾지 못했습니다. 스캔했으나 TLD가 없는 JAR들의 전체 목록을 보시려면, 로그 레벨을 디버그 레벨로 설정하십시오. 스캔 과정에서 불필요한 JAR들을 건너뛰면, 시스템 시작 시간과 JSP 컴파일 시간을 단축시킬 수 있습니다.
+23-Jul-2024 15:00:24.926 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+23-Jul-2024 15:00:25.879 INFO [main] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext initialized in 952 ms
+23-Jul-2024 15:00:25.937 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [D:\lecture\SpringFramework\_21_Spring_Board_Fileupload\conf\Catalina\localhost\ROOT.xml]의 배치가 [2,591] 밀리초 내에 완료되었습니다.
+23-Jul-2024 15:00:25.940 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8090"]을(를) 시작합니다.
+23-Jul-2024 15:00:25.988 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [2676] 밀리초 내에 시작되었습니다.
+23-Jul-2024 15:00:28.982 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'appServlet'
+23-Jul-2024 15:00:29.553 INFO [http-nio-8090-exec-2] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 571 ms
+23-Jul-2024 15:00:42.890 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8090"]을(를) 일시 정지 중
+23-Jul-2024 15:00:43.174 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+23-Jul-2024 15:00:43.182 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc 웹 애플리케이션 [ROOT]이(가) JDBC 드라이버 [com.mysql.cj.jdbc.Driver]을(를) 등록했지만, 웹 애플리케이션이 중지될 때, 해당 JDBC 드라이버의 등록을 제거하지 못했습니다. 메모리 누수를 방지하기 위하여, 등록을 강제로 제거했습니다.
+23-Jul-2024 15:00:43.183 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads 웹 애플리케이션 [ROOT]이(가) [mysql-cj-abandoned-connection-cleanup](이)라는 이름의 쓰레드를 시작시킨 것으로 보이지만, 해당 쓰레드를 중지시키지 못했습니다. 이는 메모리 누수를 유발할 가능성이 큽니다. 해당 쓰레드의 스택 트레이스:
+ java.base@17.0.10/java.lang.Object.wait(Native Method)
+ java.base@17.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@17.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.10/java.lang.Thread.run(Thread.java:842)
+23-Jul-2024 15:00:43.186 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8090"]을(를) 중지시킵니다.
+23-Jul-2024 15:00:43.205 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8090"]을(를) 소멸시킵니다.
